@@ -5,7 +5,7 @@ self.addEventListener('install', function (event) {
                 '/',
                 '/index.html',
                 '/manifest.json',
-                '/icon.png',
+                '/calc.png',
                 '/bootstrap.min.css',
                 // Adicione outros recursos que você deseja que sejam armazenados em cache
             ]);
